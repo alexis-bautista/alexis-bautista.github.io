@@ -7,8 +7,6 @@ redirect_from:
   - /galeria.html
 ---
 
-## Galeria
-
 Un poco de mi mundo :\)
 
 ![Galeria](/images/galeria.png)
