@@ -1,4 +1,5 @@
 ---
+permalink: /habilidades/
 title: "Habilidades"
 collection: Habilidades
 ---
