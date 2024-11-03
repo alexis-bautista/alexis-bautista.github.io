@@ -1,7 +1,10 @@
 ---
 permalink: /habilidades/
 title: "Habilidades"
-collection: Habilidades
+autor_profile: true
+redirect_from:
+  - /galeria/
+  - /galeria.html
 ---
 
 ## Habilidades

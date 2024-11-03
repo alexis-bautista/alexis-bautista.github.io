@@ -1,7 +1,10 @@
 ---
 permalink: /galeria/
 title: "Galeria"
-collection: Galeria
+autor_profile: true
+redirect_from:
+  - /galeria/
+  - /galeria.html
 ---
 
 ## Galeria
