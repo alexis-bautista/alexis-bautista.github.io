@@ -26,4 +26,4 @@ redirect_from:
 - Leer sobre tecnología
 - Aprender idiomas (Ingles)
 - Escuchar podcasts
-- Conocer nuevas personas
+- Conocer nuevas persona
