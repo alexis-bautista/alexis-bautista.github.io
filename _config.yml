@@ -21,7 +21,7 @@ repository: "academicpages/alexis-bautista.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "profile.jpg"
   name: "Alexis"
   pronouns: # example: "she/her"
   bio: "Estudiante de Ingeniería en Ciencias de la Computación 💻"
