@@ -13,7 +13,7 @@ Me motiva seguir aprendiendo sobre computación ya que es un campo el cual no se
 
 ## Proyectos
 
-A lo largo de mi carrera, he desarrollado pequeños proyectos que resuelven problemas que han sido planteados en distintas materias. Aunque no son muy complejos, estos proyectos me han permitido descubrir y reforzar mi habilidad para hacer que las ideas funcionen y encontrar soluciones óptimas. Esta experiencia me motiva a seguir aprendiendo, a perfeccionar mis conocimientos y a seguir creando. Aspiro a que en el futuro estos esfuerzos me permitan contribuir en proyectos de mayor alcance, que sean útiles para un público amplio y generen un impacto positivo.
+A lo largo de mi carrera, he desarrollado pequeños proyectos que resuelven problemas que han sido planteados en distintas materias. Aunque no son muy complejos, estos proyectos me han permitido descubrir y reforzar mi habilidad para hacer que las ideas funcionen y encontrar soluciones óptimas que sean eficientes y creativas. Esta experiencia me motiva a seguir aprendiendo, a perfeccionar mis conocimientos y a seguir creando. Aspiro a que en el futuro estos esfuerzos me permitan contribuir en proyectos de mayor alcance, que sean útiles para un público amplio y generen un impacto positivo.
 
-> "A veces las personas que todos piensan que no harán nada, son las que hacen cosas que nadie habia imaginado."  
+> **_"A veces las personas que todos piensan que no harán nada, son las que hacen cosas que nadie habia imaginado."_**  
 > -Alan Turing
