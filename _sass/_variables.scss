@@ -51,20 +51,20 @@ $sidebar-screen-min-width: 1024px;
 $sidebar-link-max-width: 250px;
 
 /*
-   Colors
-   ========================================================================== */
+      Colors
+      ========================================================================== */
 
 $gray: #7a8288;
 $dark-gray: mix(#000, $gray, 40%);
 $darker-gray: mix(#000, $gray, 60%);
-$light-gray: mix(#000, $gray, 50%);
-$lighter-gray: mix(#000, $gray, 90%);
+$light-gray: mix(#fff, $gray, 50%);
+$lighter-gray: mix(#fff, $gray, 90%);
 
-$body-color: #000;
-$background-color: #000;
+$body-color: #fff;
+$background-color: #fff;
 $code-background-color: #fafafa;
 $code-background-color-dark: $light-gray;
-$text-color: $white;
+$text-color: $dark-gray;
 $border-color: $lighter-gray;
 
 $primary-color: #7a8288;
@@ -107,17 +107,17 @@ $masthead-link-color: $primary-color;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%);
 
 /*
-   Breakpoints
-   ========================================================================== */
+      Breakpoints
+      ========================================================================== */
 
 @include breakpoint-set("to ems", true);
 /*
-$small                      : 400px;
-$medium                     : 500px;
-$medium-wide                : 550px;
-$large                      : 1200px;
-$x-large                    : 1800px;
-*/
+   $small                      : 400px;
+   $medium                     : 500px;
+   $medium-wide                : 550px;
+   $large                      : 1200px;
+   $x-large                    : 1800px;
+   */
 
 $small: 600px !default;
 $medium: 768px !default;
@@ -126,8 +126,8 @@ $large: 925px !default;
 $x-large: 1280px !default;
 
 /*
-   Grid
-   ========================================================================== */
+      Grid
+      ========================================================================== */
 
 $right-sidebar-width-narrow: 200px !default;
 $right-sidebar-width: 300px !default;
@@ -147,12 +147,12 @@ $susy: (
   //   color: blue,
   //   output: overlay,
   //   toggle: top right,
-  // ),,,,,,
+  // ),,
 );
 
 /*
-   Other
-   ========================================================================== */
+      Other
+      ========================================================================== */
 
 $border-radius: 4px;
 $box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125);
