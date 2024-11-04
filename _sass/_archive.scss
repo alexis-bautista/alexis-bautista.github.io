@@ -31,7 +31,7 @@
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
-  color: mix(#fff, $gray, 25%);
+  color: mix(#000, $white, 25%);
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
@@ -50,7 +50,6 @@
 
 /* remove border*/
 .page__content {
-
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
@@ -84,7 +83,6 @@
   }
 }
 
-
 /*
    List view
    ========================================================================== */
@@ -106,7 +104,6 @@
     margin: 0 0 4px;
   }
 }
-
 
 /*
    Grid view
@@ -150,7 +147,6 @@
     }
   }
 }
-
 
 /*
    Features
